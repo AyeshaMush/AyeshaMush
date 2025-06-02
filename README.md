@@ -1,5 +1,7 @@
 ### Hi! (❁´◡`❁)
 
+<p>Some of my silly projects!</p>
+
 <table>
   <tr>
     <td>
